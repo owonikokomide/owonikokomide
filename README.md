@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayomide Owonikoko</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
+<h3 align="center">A passionate full stack developer from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently learning **Php React Laravel**
 

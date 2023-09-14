@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**
 
-- 📄 Know about my experiences [Available on Request](Available on Request)
+- 📄 Know about my experiences [Available on Request]
 
 - ⚡ Fun fact **I think i am funny** 
 

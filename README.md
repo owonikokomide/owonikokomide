@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html php css React**
 
-- 📫 How to reach me **owonikokoayomide@gmail.com**
+- 📫 How to reach me **owonikokoayomide@gmail.com**  
 
 - 📄 Know about my experiences [Available on Request]
 

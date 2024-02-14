@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayomide Owonikoko</h1>
 <h3 align="center">A passionate full stack developer from Lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **Php React **
+- 🌱 I’m currently learning **PHP REACT **
 
-- 💬 Ask me about **html php css React**
+- 💬 Ask me about **HTML PHP CSS REACT**
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**   
 

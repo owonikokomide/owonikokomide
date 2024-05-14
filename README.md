@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP REACT **
 
-- 💬 Ask me about **HTML PHP CSS REACT**
+- 💬 Ask me about **PHP, SCSS, OOP, REACT**
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**   
 

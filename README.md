@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working **PHP **REACT** REACT with Vite ** 
 
-- 💬 Ask me about **PHP, SCSS, OOP, REACT**
+- 💬 Ask me about **PHP // SCSS // OOP // REACT // React-Native**
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**   
 

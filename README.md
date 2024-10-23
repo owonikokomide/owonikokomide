@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working **Next.js **REACT** SVELTE, SVELTEKIT ** 
 
-- 💬 Ask me about **PHP // SCSS // OOP // REACT // React-Native**
+- 💬 Ask me about **PHP // SCSS // OOP // REACT // React-Native // SVELTE // NEXT.js
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**   
 

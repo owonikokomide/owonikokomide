@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayomide Owonikoko</h1>
-<h3 align="center">A passionate full stack developer from Lagos, Nigeria</h3>
+<h3 align="center">A passionate Frontend developer from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently working **Next.js **REACT** SVELTE, SVELTEKIT ** 
 
-- 💬 Ask me about **PHP // SCSS // OOP // REACT // React-Native // SVELTE // NEXT.js
+- 💬 Ask me about ** REACT // React-Native // SVELTE // SVELTE-KIT // NEXT.js
 
 - 📫 How to reach me **owonikokoayomide@gmail.com**   
 
